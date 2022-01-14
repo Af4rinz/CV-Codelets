@@ -3,3 +3,4 @@
 *.doc
 *.html
 ./ipynb_checkpoints/*
+./outputs/*
